@@ -1,8 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
 ---
+<img style="float: left; margin-right: 40px; margin-top: 30px; margin-bottom: 10px; border-radius: 30%" src="../assets/images/bio_photo.jpg"  width="250" height="400">
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+&nbsp;&nbsp;&nbsp;&nbsp;Hello and welcome to my webpage! I'm Inês, a Data Science and Machine Learning student from Lisbon, Portugal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm interested in optimization, computer vision, NLP, and causality, and I love learning and sharing my knowledge with the community.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;I'm involved in research projects and personal projects, and I'm excited to contribute to the ML community. Through this blog, I hope to share my experiences and insights with you and contribute to the machine learning community. I'll be writing about interesting topics within the field and providing valuable insights into the latest trends and techniques.<br>
+{: style="text-align: justify"}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+&nbsp;&nbsp;&nbsp;&nbsp;Thank you for joining! Hope you enjoy :wink:
+{: style="text-align: justify"}
